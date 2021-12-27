@@ -1,0 +1,3 @@
+---
+- name: unconditionally shutdown the machine with all defaults
+  community.general.shutdown:
