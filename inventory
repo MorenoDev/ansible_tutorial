@@ -1,5 +1,6 @@
 [web_servers]
 10.0.1.5
+10.0.1.8
 
 [db_servers]
 10.0.1.6
